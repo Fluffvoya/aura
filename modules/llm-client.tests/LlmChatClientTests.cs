@@ -2,7 +2,7 @@ using System.Net;
 using System.Text.Json;
 using Aura.LlmClient;
 
-namespace llm_client.tests;
+namespace Aura.LlmClient.Tests;
 
 public sealed class LlmChatClientTests
 {

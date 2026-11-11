@@ -1,7 +1,7 @@
 using System.Net;
 using System.Text;
 
-namespace llm_client.tests;
+namespace Aura.LlmClient.Tests;
 
 internal sealed record CapturedRequest(
     HttpMethod Method,
