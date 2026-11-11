@@ -1,0 +1,2 @@
+# Keep Visual Studio solution files compatible with Windows tooling.
+*.sln text eol=crlf
