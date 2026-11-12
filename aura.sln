@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "modules", "modules", "{CA25
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "llm-client", "modules\llm-client\llm-client.csproj", "{5F765B04-892F-4226-9662-BB8F5844DCD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "llm-client.tests", "modules\llm-client.tests\llm-client.tests.csproj", "{B7B4ACB2-E521-4EBF-8FDE-753F6636D7DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "llm-client-tests", "modules\llm-client-tests\llm-client-tests.csproj", "{B7B4ACB2-E521-4EBF-8FDE-753F6636D7DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

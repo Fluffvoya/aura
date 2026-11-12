@@ -1,3 +1,3 @@
 using System.Runtime.CompilerServices;
 
-[assembly: InternalsVisibleTo("llm-client.tests")]
+[assembly: InternalsVisibleTo("llm-client-tests")]
