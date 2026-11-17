@@ -1,2 +1,4 @@
-# Keep Visual Studio solution files compatible with Windows tooling.
-*.sln text eol=crlf
+* text=auto
+*.py text eol=lf
+*.toml text eol=lf
+*.lock text eol=lf
