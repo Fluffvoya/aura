@@ -28,3 +28,12 @@ Work on a dedicated branch, keep each commit focused, follow the branch and
 commit naming formats, and verify the project before pushing.
 
 @agent-rules/git-rules.md
+
+## 4. Module Documentation
+
+Keep all modules as peers directly under `modules/`, for use within this
+project only. Document only interfaces intended for callers outside the module
+and the information needed to use them. Do not include installation instructions.
+Keep implementation and contributor details out of module documentation.
+
+@agent-rules/module-documentation.md

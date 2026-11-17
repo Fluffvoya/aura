@@ -1,0 +1,15 @@
+[project]
+name = "llm-client"
+version = "0.1.0"
+description = "OpenAI-compatible LLM clients for Aura"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["openai>=2,<3", "httpx>=0.27,<1"]
+
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+py-modules = ["llm_client"]
